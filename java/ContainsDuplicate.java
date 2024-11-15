@@ -1,6 +1,4 @@
-import java.util.Arrays;
 import java.util.HashMap;
-
 /**
   * 
   * leetcode 217  contains duplicate
@@ -21,7 +19,6 @@ import java.util.HashMap;
         }
         return false;
     }
-
     public static void main(String[] args) {
         ContainsDuplicate check = new ContainsDuplicate();
         System.out.println(check.solution(null));
