@@ -1,9 +1,10 @@
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Leetcode 242 Valid Anagram
+/** Leetcode 242 Valid Anagram 
+ * 
  * https://leetcode.com/problems/valid-anagram/description/
+ *
  */
 public class ValidAnagram {
     public boolean solution(String s1, String s2){
