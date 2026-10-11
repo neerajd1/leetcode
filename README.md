@@ -7,6 +7,7 @@ leetcode practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/neerajd1/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/neerajd1/leetcode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/neerajd1/leetcode/tree/master/0136-single-number) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/neerajd1/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
@@ -17,6 +18,7 @@ leetcode practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/neerajd1/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/neerajd1/leetcode/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -29,9 +31,14 @@ leetcode practice
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/neerajd1/leetcode/tree/master/0049-group-anagrams) |
 | [0412-fizz-buzz](https://github.com/neerajd1/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/neerajd1/leetcode/tree/master/0412-fizz-buzz) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/neerajd1/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
