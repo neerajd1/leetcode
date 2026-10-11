@@ -7,6 +7,7 @@ leetcode practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/neerajd1/leetcode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/neerajd1/leetcode/tree/master/0136-single-number) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/neerajd1/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -20,4 +21,8 @@ leetcode practice
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/neerajd1/leetcode/tree/master/0009-palindrome-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/neerajd1/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
