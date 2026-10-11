@@ -19,6 +19,7 @@ leetcode practice
 | ------- |
 | [0001-two-sum](https://github.com/neerajd1/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/neerajd1/leetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/neerajd1/leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@ leetcode practice
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/neerajd1/leetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/neerajd1/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/neerajd1/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -41,4 +43,5 @@ leetcode practice
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/neerajd1/leetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/neerajd1/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
